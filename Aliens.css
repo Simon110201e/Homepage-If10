@@ -1,0 +1,62 @@
+body {
+    background-color: #BBBBBB;
+
+}
+
+a:link {
+    color: red;
+}
+a:visited {
+    color: red;
+}
+a:hover {
+    color: purple;
+}
+a:active {
+    color: red;
+}
+
+.drauf {
+    color: red;
+}
+
+.home:hover {
+    content: url("Bilder/Home\ an.jpg");
+}
+
+.arten:hover {
+    content: url("Bilder/Arten an.jpg");
+}
+
+.ufo:hover {
+    content: url("Bilder/UFOs an.jpg");
+}
+
+.sicht:hover {
+    content: url("Bilder/Sicht an.jpg");
+}
+.Karte:hover {
+    content: url("Bilder/Karte an.jpg");
+}
+.Einstell:hover {
+    content: url("Bilder/einstell an.jpg");
+}
+.einleitung {
+    width: 80%;
+    margin: 20px auto;
+    text-align: left;
+}
+
+.einleitung h2 {
+    margin-bottom: 8px;
+}
+
+.einleitung p {
+    min-height: 120px;
+    padding: 12px;
+    border: 1px solid #666666;
+    background-color: #EEEEEE;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+}
+/* 114 x 50 px */
